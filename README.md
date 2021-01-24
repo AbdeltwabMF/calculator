@@ -30,7 +30,7 @@ Simple and user friendly Android Calculator
 
 ---
 
-To be continued ..
+### To be continued ..
 
 ---
 
