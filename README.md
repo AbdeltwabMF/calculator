@@ -35,5 +35,5 @@ To be continued ..
 ---
 
 ## License
-Licenced under the MIT License.
+Licenced under the [MIT License](LICENCE).
 
